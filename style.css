@@ -822,6 +822,16 @@ footer {
 
     .img2{
         margin-top: 70px;
+        margin-right: 90px;
+    }
+    .img2 img{
+        width: 90px;
+        height: 90px;
+    }
+
+    .img0 img{
+        width: 90px;
+        height: 90px;
     }
 
     .img3{
